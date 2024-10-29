@@ -1,5 +1,5 @@
 # Nicola_Monetti_homework1
-Repository for Homework 1 of Robotics Labs course maked by Marco Bartone, Giacomo Caiazzo, Matteo De Simone, Nicola Monetti.
+Repository for Homework 1 of Robotics Labs course maked by Marco Bartone P38000237, Giacomo Caiazzo P38000236, Matteo De Simone P38000232, Nicola Monetti P38000238.
 
 ## Robotics Lab - Homework 1
 
