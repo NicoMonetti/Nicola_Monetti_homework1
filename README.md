@@ -16,7 +16,7 @@ Open the terminal, open the container and enter into the directory where you wan
 
 To build the packages, enter into the ros2 workspace and build them with:
 
-$        colcon build
+-       $ colcon build
 
 or you could build only the necessary packages using:
 
