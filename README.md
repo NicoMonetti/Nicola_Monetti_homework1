@@ -20,7 +20,7 @@ To build the packages, enter into the ros2 workspace and build them with:
 
 or you could build only the necessary packages using:
 
-- colcon build --packages-select arm_description arm_gazebo arm_control
+-      $ colcon build --packages-select arm_description arm_gazebo arm_control
 
 Atfer this, we have to use the source command:
 
