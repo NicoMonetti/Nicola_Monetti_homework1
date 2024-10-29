@@ -1,5 +1,5 @@
 # Nicola_Monetti_homework1
-Repository of the homework 1 of Robotics Labs
+Repository of the homework 1 of Robotics Labs maked by Marco Bartone, Giacomo Caiazzo, Matteo De Simone, Nicola Monetti.
 
 ## Robotics Lab - Homework 1
 
@@ -16,11 +16,11 @@ git clone "https:url_of_the_folder.com"
 
 To build the packages, enter into the ros2 workspace and build them with:
 
-$ colcon build
+- $ colcon build
 
 or you could build only the necessary packages using:
 
-$ colcon build --packages-select arm_description arm_gazebo arm_control
+- $ colcon build --packages-select arm_description arm_gazebo arm_control
 
 Atfer this, we have to use the source command:
 
